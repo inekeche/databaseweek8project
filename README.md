@@ -24,6 +24,10 @@ One-to-One	employees	locations	Each location is managed by one employee
 One-to-Many	products	inventory_movements	Track movement history of products
 
 
+![image](https://github.com/user-attachments/assets/b726f341-b320-4114-8e86-65451902ae18)
+
+
+
 
 
 
